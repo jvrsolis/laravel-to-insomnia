@@ -5,9 +5,9 @@
     "license": "MIT",
     "require": {
         "ext-json": "*",
-        "illuminate/console": "^6",
-        "illuminate/support": "^6",
-        "illuminate/routing": "^6"
+        "illuminate/console": "^8",
+        "illuminate/support": "^8",
+        "illuminate/routing": "^8"
     },
     "autoload": {
         "psr-4":{
